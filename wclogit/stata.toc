@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p wclogit Conditional logistic regression with within-group varying weights Use wclogit With STATA 18
