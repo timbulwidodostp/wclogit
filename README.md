@@ -1,6 +1,8 @@
 # wclogit
 Conditional logistic regression with within-group varying weights Use wclogit With STATA 18
 
+https://www.youtube.com/watch?v=0v4OhlYqo6w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
